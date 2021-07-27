@@ -1,2 +1,9 @@
 flask
 sqlalchemy
+flake8
+flake8-builtins
+flake8-docstrings
+flake8-import-order
+flake8-import-single
+flake8-quotes
+pytest
